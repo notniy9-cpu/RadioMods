@@ -1,0 +1,27 @@
+{
+  "static1": {
+    "category": "player",
+    "sounds": ["radiomods:static1"],
+    "subtitle": "radio.static"
+  },
+  "static2": {
+    "category": "player",
+    "sounds": ["radiomods:static2"],
+    "subtitle": "radio.static"
+  },
+  "static3": {
+    "category": "player",
+    "sounds": ["radiomods:static3"],
+    "subtitle": "radio.static"
+  },
+  "click": {
+    "category": "player",
+    "sounds": ["radiomods:click"],
+    "subtitle": "radio.click"
+  },
+  "beep": {
+    "category": "player",
+    "sounds": ["radiomods:beep"],
+    "subtitle": "radio.beep"
+  }
+}
