@@ -1,0 +1,8 @@
+item.radio.name=Radio
+item.telegraph_key.name=Telegraph Key
+tile.booster1.name=Basic Booster
+tile.booster2.name=Advanced Booster
+tile.booster3.name=Maximum Booster
+key.radio.ptt=Push to Talk
+key.telegraph.morse=Morse Code
+key.categories.radio=Radio Mod
